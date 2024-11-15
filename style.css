@@ -1,0 +1,18 @@
+body {
+    background-color: #f9f9f9;
+    color: #333;
+     }
+
+h1 {
+    color: #007bff;
+    text-transform: uppercase;
+    font-family: arial;
+    font-stretch: extra-condensed;
+}
+
+.table-bordered th, .table-bordered td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    color: white;
+}
